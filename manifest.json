@@ -1,0 +1,42 @@
+{
+  "name": "Aprenda + — Plataforma Escolar",
+  "short_name": "Aprenda +",
+  "description": "Plataforma Multidisciplinar — Escola Secundária Ecuménica São João de Chidenguele",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1b2a",
+  "theme_color": "#0d1b2a",
+  "lang": "pt",
+  "dir": "ltr",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgcng9IjMyIiBmaWxsPSIjMGQxYjJhIi8+PHJlY3QgeD0iMTIiIHk9IjEyIiB3aWR0aD0iMTY4IiBoZWlnaHQ9IjE2OCIgcng9IjI0IiBmaWxsPSIjMWE0ZmEwIi8+PHRleHQgeD0iNjQiIHk9IjExNiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsc2VyaWYiIGZvbnQtc2l6ZT0iODAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QTwvdGV4dD48dGV4dCB4PSIxNDIiIHk9Ijc2IiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSI1MCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNmMGMwNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiPis8L3RleHQ+PC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjgwIiBmaWxsPSIjMGQxYjJhIi8+PHJlY3QgeD0iMzAiIHk9IjMwIiB3aWR0aD0iNDUyIiBoZWlnaHQ9IjQ1MiIgcng9IjYwIiBmaWxsPSIjMWE0ZmEwIi8+PHRleHQgeD0iMTcwIiB5PSIzMjAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjIxMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5BPC90ZXh0Pjx0ZXh0IHg9IjM5MCIgeT0iMjAwIiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIxMzAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjZjBjMDQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4rPC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Conteúdo",
+      "url": "./?panel=conteudo",
+      "description": "Abrir conteúdo de estudo"
+    },
+    {
+      "name": "Testes",
+      "url": "./?panel=testes",
+      "description": "Realizar testes de avaliação"
+    }
+  ],
+  "prefer_related_applications": false
+}
