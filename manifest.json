@@ -1,0 +1,42 @@
+{
+  "name": "Aprenda + — Plataforma Escolar",
+  "short_name": "Aprenda +",
+  "description": "Plataforma Multidisciplinar — Escola Secundária Ecuménica São João de Chidenguele",
+  "start_url": "/Plataforma/",
+  "scope": "/Plataforma/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1b2a",
+  "theme_color": "#0d1b2a",
+  "lang": "pt",
+  "dir": "ltr",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "/Plataforma/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Plataforma/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Conteúdo",
+      "url": "/Plataforma/?panel=conteudo",
+      "description": "Abrir conteúdo de estudo"
+    },
+    {
+      "name": "Testes",
+      "url": "/Plataforma/?panel=testes",
+      "description": "Realizar testes de avaliação"
+    }
+  ],
+  "prefer_related_applications": false
+}
